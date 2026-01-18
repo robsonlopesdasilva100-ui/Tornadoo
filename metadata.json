@@ -1,0 +1,8 @@
+{
+  "name": "Tornado Storm Hunter 3D",
+  "description": "Um simulador 3D de tornado em uma floresta com ciclo dia/noite. Controle a força da natureza, destrua árvores e ouça comentários gerados por IA sobre seu rastro de destruição.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
